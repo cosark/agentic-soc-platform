@@ -88,6 +88,10 @@ MIT licensed, fully local deployment supported. Security data stays inside your 
 
 ---
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Agentic%20SOC%20Platform/)
+
 ## Official Website
 
 [https://asp.viperrtp.com](https://asp.viperrtp.com)
